@@ -1,5 +1,5 @@
 import unittest
-from assignment5 import calculate, fibonacci
+from Assignment5 import calculate, fibonacci
 
 class TestCalculate(unittest.TestCase):
     def test_calculate_valid_input(self):
